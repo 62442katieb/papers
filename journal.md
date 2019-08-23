@@ -4,4 +4,8 @@
 ### Introduction
 In this paper, I will -
 More words here.
-[cite]
+[1]
+
+
+### References
+1. Bottenhorn et al., 2015
