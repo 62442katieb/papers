@@ -16,8 +16,8 @@ I did what I said I would and I was wrong! But publishing null results is good.
 Sometimes, being wrong is okay. The real science is the friends we made along the way.
 
 ### Figures
-1. a picture of me being wrong
-2. a picture of me with all my supportive pals (I mean, colleagues)
+1. a picture of me with all my supportive pals (I mean, colleagues)
+2. a picture of me being wrong
 
 
 ### References
