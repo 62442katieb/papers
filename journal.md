@@ -9,6 +9,12 @@ More words here.
 ### Methods
 We had a lot of participants (v high powered!) and used fmriprep for preprocessing.
 
+### Results
+I did what I said I would and I was wrong! But publishing null results is good.
+
+### Discussion
+Sometimes, being wrong is okay.
+
 
 ### References
 1. Bottenhorn et al., 2015
