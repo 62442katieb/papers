@@ -13,7 +13,11 @@ We had a lot of participants (v high powered!) and used fmriprep for preprocessi
 I did what I said I would and I was wrong! But publishing null results is good.
 
 ### Discussion
-Sometimes, being wrong is okay.
+Sometimes, being wrong is okay. The real science is the friends we made along the way.
+
+### Figures
+1. a picture of me being wrong
+2. a picture of me with all my supportive pals (I mean, colleagues)
 
 
 ### References
