@@ -1,5 +1,5 @@
 # Title of my paper
-## KL Bottenhorn, LD Hill-Bowen, PM Viera, AR Laird
+## KL Bottenhorn, PM Viera, LD Hill-Bowen, AR Laird
 
 ### Introduction
 In this paper, I will -
