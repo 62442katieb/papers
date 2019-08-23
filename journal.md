@@ -1,5 +1,5 @@
-# Title of my paper
-## KL Bottenhorn, LD Hill-Bowen, AR Laird
+# The title of my paper
+## KL Bottenhorn, LD Hill-Bowen, J Smith, AR Laird
 
 ### Introduction
 In this paper, I will -
